@@ -23,7 +23,7 @@ A fun and interactive terminal-based typing speed and accuracy test game built u
     * Have to improve — Below the above thresholds
 
 ## UI Interface
-![UI Interface](ui_interface.jpg)
+![UI Interface](ui_interface.JPG)
 
 ## Requirements
 * Python 3.x
