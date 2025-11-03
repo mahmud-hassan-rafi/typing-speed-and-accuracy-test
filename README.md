@@ -34,7 +34,7 @@ A fun and interactive terminal-based typing speed and accuracy test game built u
 #### Install pygame:
       pip install pygame
 ## ▶️ How to Run
-      python filename.py
+      python main.py
 Note: make sure you are in the same directory of this respiratory
 
 ## How to Play
